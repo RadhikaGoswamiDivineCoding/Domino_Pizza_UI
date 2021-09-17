@@ -1,6 +1,10 @@
 # Dominos Pizza UI Redesgin
 
 
+![dominos pizza](https://user-images.githubusercontent.com/63576922/133804153-b2f4988d-aa8b-4771-8a53-b9d024a9c0d2.jpeg)
+
+
+
 A new Flutter application.
 
 ## Getting Started
